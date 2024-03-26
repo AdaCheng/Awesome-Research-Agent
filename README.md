@@ -1,2 +1,9 @@
 # Awesome-Research-Agent
-Paper and project list about research agent, including review, paper reading, and so on.
+
+## Paper Reading
+[1] 
+
+## Survey / Report
+[1] [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher): Generate research, outlines, resources and lessons reports.
+
+## Review
