@@ -67,3 +67,23 @@
 [23] InteRecAgent [[2308.16505\] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations (arxiv.org)](https://arxiv.org/abs/2308.16505)
 
 [24] [Kimi.ai  (moonshot.cn)](https://kimi.moonshot.cn/): 
+
+
+https://arxiv.org/abs/2304.05332 : Emergent autonomous scientific research capabilities of large language models,
+
+https://github.com/kaixindelele/ChatPaper: Use ChatGPT to summarize the arXiv papers
+
+https://github.com/nishiwen1214/ChatReviewer: Use ChatGPT to analyze the strengths and weaknesses of the paper and make suggestions for improvement
+
+https://github.com/binary-husky/gpt_academic :Specially optimized paper reading/polishing/writing experience, modular design
+
+https://huggingface.co/spaces/ShiwenNi/ChatResponse: Use ChatGPT to respond to reviewer questions
+
+https://github.com/WangRongsheng/ChatGenTitle : Generate appropriate titles based on the abstract of the paper
+
+https://github.com/MasterYip/ChatPaper2Xmind: The paper XMind note generation tool converts the paper pdf into brief XMind notes with pictures and formulas through ChatGPT to improve paper reading efficiency.
+
+https://github.com/kaixindelele/ChatSensitiveWords: determine whether the paper involves sensitive words.
+
+https://papers.cool/ : help reading paper
+
