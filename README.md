@@ -26,6 +26,9 @@ AllenAI's Semantic Scholar https://aclanthology.org/2020.acl-main.447/   Help re
 
 https://arxiv.org/abs/2304.05332 : Emergent autonomous scientific research capabilities of large language models,
 
+https://github.com/whitead/paper-qa :LLM Chain for answering questions from documents with citations
+https://arxiv.org/html/2312.07559v2
+
 ## Review
 
 https://huggingface.co/spaces/ShiwenNi/ChatResponse: Use ChatGPT to respond to reviewer questions
@@ -35,6 +38,8 @@ https://github.com/nishiwen1214/ChatReviewer: Use ChatGPT to analyze the strengt
 https://github.com/binary-husky/gpt_academic :Specially optimized paper reading/polishing/writing experience, modular design
 
 ## comprehensive
+
+https://synthmind.app/home :https://synthmind.app/home
 
 [AgentGPT (reworkd.ai)](https://agentgpt.reworkd.ai/zh): Assemble, configure, and deploy autonomous AI Agents in your browser.
 
