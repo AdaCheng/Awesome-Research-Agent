@@ -18,7 +18,7 @@ https://github.com/kaixindelele/ChatPaper: Use ChatGPT to summarize the arXiv pa
 
 SciBERT[[1903.10676\] SciBERT: A Pretrained Language Model for Scientific Text (arxiv.org)](https://arxiv.org/abs/1903.10676): Document retrieval, entity recognition, relationship extraction
 
-AllenAI's Semantic Scholarhttps://aclanthology.org/2020.acl-main.447/   Help researchers quickly find relevant academic papers and materials
+AllenAI's Semantic Scholar https://aclanthology.org/2020.acl-main.447/   Help researchers quickly find relevant academic papers and materials
 
 ## Survey / Report
 
