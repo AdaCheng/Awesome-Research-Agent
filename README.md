@@ -20,6 +20,13 @@ SciBERT[[1903.10676\] SciBERT: A Pretrained Language Model for Scientific Text (
 
 AllenAI's Semantic Scholar https://aclanthology.org/2020.acl-main.447/   Help researchers quickly find relevant academic papers and materials
 
+https://typeset.io/ :AI Chat for scientific PDFs
+
+Wordtune https://www.wordtune.com/: Free AI Writing Assistant | Write Better Today
+
+https://www.chatpdf.com/
+https://chatdoc.com/  :Summarize the article, extract the main points, translate the content
+
 ## Survey / Report
 
 [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher): Generate research, outlines, resources and lessons reports.
@@ -28,6 +35,12 @@ https://arxiv.org/abs/2304.05332 : Emergent autonomous scientific research capab
 
 https://github.com/whitead/paper-qa :LLM Chain for answering questions from documents with citations
 https://arxiv.org/html/2312.07559v2
+
+https://scite.ai/:helps researchers better discover and understand research articles through Smart Citations–citations that display the context of the citation and describe whether the article provides supporting or contrasting evidence.
+
+https://www.scholarcy.com/: Extract structured data from documents and generate article summaries through the knowledge induction engine to concisely present the summary information of the article
+
+https://quillbot.com/: Writing needs, including academic writing, blogging, and proofreading. As an AI language model, QuillBot helps users create well-structured sentences and improve the overall quality of writing.
 
 ## Review
 
