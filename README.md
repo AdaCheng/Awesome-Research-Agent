@@ -2,7 +2,7 @@
 
 ## Paper Reading
 
-[coolpaper](https://papers.cool/) : help reading paper
+[CoolPaper](https://papers.cool/) : help reading paper
 
 [OpenChatPaper](https://github.com/liuyixin-louis/OpenChatPaper): A paper reading assistant based on the OpenAI ChatGPT API.
 
@@ -14,7 +14,7 @@
 
 [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize arXiv papers.
 
-[Kimi.ai](https://kimi.moonshot.cn/): 
+[Kimi.ai](https://kimi.moonshot.cn/): Ultra long memory AI assistant, supporting contextual input of about 200000 Chinese characters, with significant Chinese advantages, ready to answer questions, read files quickly, organize information, stimulate inspiration, and assist in creation at any time
 
 [SciBERT](https://arxiv.org/abs/1903.10676): Document retrieval, entity recognition, relationship extraction
 
