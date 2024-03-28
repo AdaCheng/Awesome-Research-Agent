@@ -2,21 +2,21 @@
 
 ## Paper Reading
 
-[CoolPaper](https://papers.cool/) : help reading paper
+[CoolPaper](https://papers.cool/) : help reading paper   (use kimi.ai api, no train)
 
-[OpenChatPaper](https://github.com/liuyixin-louis/OpenChatPaper): A paper reading assistant based on the OpenAI ChatGPT API.
+[OpenChatPaper](https://github.com/liuyixin-louis/OpenChatPaper): A paper reading assistant based on the OpenAI ChatGPT API.   (based on chatgpt3.5, no train)
 
-[ChatPaper2Xmind](https://github.com/MasterYip/ChatPaper2Xmind): A tool that converts paper PDFs into brief XMind notes with pictures and formulas through ChatGPT to improve paper reading efficiency.
+[ChatPaper2Xmind](https://github.com/MasterYip/ChatPaper2Xmind): A tool that converts paper PDFs into brief XMind notes with pictures and formulas through ChatGPT to improve paper reading efficiency. (based on chatgpt3.5, no train)
 
-[ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle): Generate appropriate titles based on the abstract of the paper.
+[ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle): Generate appropriate titles based on the abstract of the paper. (based on LLaMA, train)
 
-[ChatSensitiveWords](https://github.com/kaixindelele/ChatSensitiveWords): Determine whether the paper involves sensitive words.
+[ChatSensitiveWords](https://github.com/kaixindelele/ChatSensitiveWords): Determine whether the paper involves sensitive words. (use database, let Chat determine the semantics and whether there is manslaughter.)
 
-[ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize arXiv papers.
+[ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize arXiv papers. (based on chatgpt, no train)
 
-[Kimi.ai](https://kimi.moonshot.cn/): Ultra long memory AI assistant, supporting contextual input of about 200000 Chinese characters, with significant Chinese advantages, ready to answer questions, read files quickly, organize information, stimulate inspiration, and assist in creation at any time
+[Kimi.ai](https://kimi.moonshot.cn/): Ultra long memory AI assistant, supporting contextual input of about 200000 Chinese characters, with significant Chinese advantages, ready to answer questions, read files quickly, organize information, stimulate inspiration, and assist in creation at any time  (based on Moonshot)
 
-[SciBERT](https://arxiv.org/abs/1903.10676): Document retrieval, entity recognition, relationship extraction
+[SciBERT](https://arxiv.org/abs/1903.10676): Document retrieval, entity recognition, relationship extraction   (based on bert)
 
 [AllenAI's Semantic Scholar](https://aclanthology.org/2020.acl-main.447/)   Help researchers quickly find relevant academic papers and materials
 
